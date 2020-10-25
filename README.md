@@ -5,7 +5,7 @@
 
 # Artistry + Function
 
-[![N|Solid](http://artistryandfunction.com/assets/images/logo.png)](https://artistryandfunction.com)
+[![N|Solid](assets/images/logo.png)](https://artistryandfunction.com)
 ## Deployment
  ### Live Site
  https://artistryandfunction.com
