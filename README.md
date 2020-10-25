@@ -8,9 +8,8 @@
  
 
 
-
 ## Introduction
-Seasonal 21-day cleanse featuring Daily Instructions, Wordpress Blog and Social Media Discussion Platform
+Artistry + Function creates and/or optimize web experiences for business owners, allowing them to realize additional revenue through selling products/services and generating passive income through affiliate marketing connections.  The artistryandfunction.com website will serve as the primary gateway for client acquisition and will serve as the client portal to their account information throughout our relationship. 
 
 
 ## Features and Functionality
