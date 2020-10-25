@@ -1,8 +1,3 @@
-# artistryandfunction
- Marketing Company
-
-
-
 # Artistry + Function
 
 [![N|Solid](assets/images/logo.png)](https://artistryandfunction.com)
